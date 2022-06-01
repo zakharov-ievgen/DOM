@@ -8,11 +8,10 @@ function getValue() {
 }
 button.addEventListener(`click`, getValue);
 //task 2
-var adr;
+let adr;
 const getLink = document.querySelector(`.js--take`);
 function getName() {
     adr = prompt(`Enter your link,please`);
-    return adr;
 }
 getLink.addEventListener(`click`, getName);
 

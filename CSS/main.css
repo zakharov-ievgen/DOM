@@ -1,0 +1,60 @@
+table td {
+  padding: 20px;
+  border: 1px solid black;
+  color: blue;
+}
+.js--square {
+  height: auto;
+}
+img {
+  width: 80%;
+  border-radius: 15px;
+  border: 3px solid rgba(0, 0, 0, 0.803);
+  box-shadow: 8px 8px rgb(26, 26, 60);
+}
+p {
+  padding: 20px;
+  border-top: 2px dotted black;
+  border-bottom: 2px dotted black;
+  font-size: 18px;
+  width: 800px;
+  line-height: 22px;
+}
+.task1 {
+  color: blue;
+  font-size: 18px;
+  font-weight: bold;
+  border: 2px solid black;
+  border-radius: 6px;
+}
+.web-serf {
+  margin: 20px 0 20px 0;
+}
+.task2 {
+  font-size: 18px;
+  font-weight: bold;
+  border: 2px solid green;
+  border-radius: 6px;
+  margin-right: 35px;
+}
+.task3 {
+  border: 2px solid grey;
+  padding: 0 5px 0 5px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 6px;
+  margin: 10px 10px 10px 0;
+}
+.task4 {
+  background-color: black;
+  color: blanchedalmond;
+  padding: 0 5px 0 5px;
+  font-size: 18px;
+  font-weight: bold;
+  border-radius: 6px;
+  margin-top: 20px;
+}
+body {
+  background-color: rgb(196, 213, 213);
+  padding-left: 20px;
+}
